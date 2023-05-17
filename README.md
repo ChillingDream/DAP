@@ -1,4 +1,4 @@
-This repository contains the code for our paper Dual-Alignment Pre-training for Cross-lingual Sentence Embedding.
+This repository contains the code for our paper [Dual-Alignment Pre-training for Cross-lingual Sentence Embedding](https://arxiv.org/abs/2305.09148).
 
 The codebase is built upon SimCSE.
 
