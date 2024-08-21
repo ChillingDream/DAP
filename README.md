@@ -2,6 +2,10 @@ This repository contains the code for our paper [Dual-Alignment Pre-training for
 
 The codebase is built upon SimCSE.
 
+We have uploaded our checkpoints to huggingface:
+- [ChillingDream/dap-mbert-base](https://huggingface.co/ChillingDream/dap-mbert-base)
+- [ChillingDream/dap-xlm-roberta-base](https://huggingface.co/ChillingDream/dap-xlm-roberta-base/tree/main)
+
 ## Requirements
 
 * python >= 3.6.10
